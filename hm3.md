@@ -54,3 +54,4 @@ if solve_eight_queens(board):
 else:
     print("No solution exists.")
 ```
+> CHATGPT(MODIFY)

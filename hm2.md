@@ -43,3 +43,4 @@ cities = [(0, 0), (1, 1), (2, 2), (3, 3)]
 solution = nearest_neighbor(cities)
 print(solution)
 ```
+> ChatGPT (directly ask the code to solve TSP using simulated annealing method, no change)

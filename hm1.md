@@ -48,3 +48,4 @@ plt.plot(x, y_predicted, label='Fitted line')
 plt.legend()
 plt.show()
 ```
+> CHATGPT(MODIFY)
